@@ -1,0 +1,21 @@
+{
+	"name":"test",
+	"data":[
+		{
+			"title" : "file1",
+			"link"  : "./data/files/file1.md",
+			"description" : "file pertama di lokal"
+		},
+		{
+			"title" : "file2",
+			"link"  : "./data/files/file2.md",
+			"description" : "file kedua di lokal"
+		},
+		{
+			"title" : "file3",
+			"link"  : "./data/files/file3.md",
+			"description" : "file ketiga di lokal"
+		}
+
+	]
+}
